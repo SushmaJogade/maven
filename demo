@@ -1,0 +1,4 @@
+git remote -v
+git remote add origin git@github.com:SushmaJogade/maven.git
+git push -v origin master
+git log 
